@@ -1,4 +1,4 @@
-(defproject clj-stacktrace "0.2.5-RVTX-1"
+(defproject clj-stacktrace "0.2.5-RVTX-2"
   :description "More readable stacktraces in Clojure programs."
   :url "http://github.com/mmcgrana/clj-stacktrace"
   :jar-exclusions [#"test"]
